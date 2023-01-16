@@ -3,7 +3,7 @@
 ## Title: GM Fight Tool
 ## Version: 0.0.1
 ## Notes: Stuff. 
-## Author: SlimeWizzard
+## Author: EriGra
 ## OptionalDeps:
 ## SavedVariables: FightTool
 #------------------------------------------------------------------------------
