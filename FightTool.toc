@@ -1,0 +1,17 @@
+#------------------------------------------------------------------------------
+## Interface: 90075
+## Title: GM Fight Tool
+## Version: 0.0.1
+## Notes: Stuff. 
+## Author: SlimeWizzard
+## OptionalDeps:
+## SavedVariables: FightTool
+#------------------------------------------------------------------------------
+# T A B L E  O F  C O N T E N T S
+
+# ----- Library Inclusions -----------------
+# embeds.xml
+
+# ----- Main Program -----------------------
+FightTool.lua
+# Character.lua
